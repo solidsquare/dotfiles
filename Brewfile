@@ -1,6 +1,7 @@
 brew "git"
 brew "git-lfs"
 brew "yarn"
+brew "kubectl"
 
 tap "homebrew/cask"
 
